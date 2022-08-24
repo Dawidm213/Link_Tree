@@ -1,7 +1,8 @@
+
+### 'npx json-server --watch CB.json --port 8000'
+
 This website uses custom made JSON file witch is not hosted by anythink
-So you need to host it by yourself with console command "npx json-server --watch CB.json --port 8000"
-
-
+So you need to host it by yourself with console command listed above
 
 ### `npm start`
 
